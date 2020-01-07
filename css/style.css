@@ -1,0 +1,109 @@
+body {
+	background-color: #550a46;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+	color: #ffd369;
+}
+
+.about {
+	margin: 5% 0 2% 0;
+}
+
+button.navbar-toggler {
+	background-color: #550a46;
+	border: 2px;
+	color: #230444
+}
+
+button.navbar-toggler span {
+	width: 100px;
+	text-align: center;
+	color: #ffd369;
+}
+
+.nav {
+	padding-left: 10%;
+	padding-right: 10%;
+	background-color: #230444;
+}
+
+.navbar-brand img {
+	width: 100px;
+}
+
+.nav a {
+	color: #ffd369;
+}
+
+.nav a:hover {
+	color: #550a46;
+}
+
+.nav-link {
+	color: #f9f9f9;
+}
+
+.nav-link:hover {
+	color: #f0134d;
+}
+
+.card {
+	border-color: #ffd369;
+}
+
+.card:hover {
+	border: none;
+}
+
+.card-body {
+	background-color: #230444;
+}
+
+.card-body h5 {
+	color: #ffd369;
+}
+
+.social-media {
+	background-color: #ffd369;
+}
+
+.social-media i {
+	color: #230444;
+}
+
+.social-media i:hover {
+	color: #550a46;
+}
+
+.social-media h6 {
+	color: #230444;
+}
+
+footer {
+	background-color: #230444;
+}
+
+footer a,
+p,
+i {
+	color: #ffd369;
+}
+
+footer a:hover {
+	color: #550a46;
+}
+
+.footer-copyright {
+	background-color: #550a46;
+}
+
+.footer-copyright a:hover {
+	color: #230444;
+}
